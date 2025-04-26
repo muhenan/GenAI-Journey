@@ -7,6 +7,7 @@ The learning process is divided into four major parts:
 
 Build solid understanding of basic neural networks (MLP, CNN, RNN) and master PyTorch for model development.
 
+- PyTorch Basics - [pytorch-basic.ipynb](notebooks/deep_learning/pytorch-basic.ipynb)
 - Multi-Layer Perceptron (MLP) - [01_mlp.ipynb](notebooks/deep_learning/01_mlp.ipynb)
 - Convolutional Neural Network (CNN) - [02_cnn.ipynb](notebooks/deep_learning/02_cnn.ipynb)
 - Recurrent Neural Network (RNN) - [03_rnn.ipynb](notebooks/deep_learning/03_rnn.ipynb)
